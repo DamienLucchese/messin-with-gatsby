@@ -1,0 +1,19 @@
+.stoneBackground {
+  background-image: url("//live.staticflickr.com/65535/49985078287_6b5e32a18b_k.jpg");
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 2.25rem;
+  -webkit-box-shadow: 0px 8px 6px 2px rgba(0, 0, 0, 0.32);
+  -moz-box-shadow: 0px 8px 6px 2px rgba(0, 0, 0, 0.32);
+  box-shadow: 0px 8px 6px 2px rgba(0, 0, 0, 0.32);
+}
+
+.stoneBackground .container {
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 2.45rem 2.0875rem;
+}
+
+.stoneBackground h1 a {
+  -webkit-text-stroke: 1px #133502;
+}
